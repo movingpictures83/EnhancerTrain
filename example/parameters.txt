@@ -1,0 +1,5 @@
+data_info_file	data_info_mESC_E11_5.tsv
+DMR_epimark_file	training_region.DMR_with_epimark.tsv
+annotated_region_epimark_file	training_region.region_with_epimark.tsv
+label_file	mESC_region_for_train_label.tsv
+samples_for_training	mESC
